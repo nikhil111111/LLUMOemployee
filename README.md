@@ -1,3 +1,8 @@
+**Nikhil Garg** – Fullstack Developer
+
+- GitHub: [nikhil111111](https://github.com/nikhil111111)
+- Email: nikhil.garg.2509@gmail.com
+
 # Employee Management API
 
 A RESTful API for managing employees, built with **FastAPI** and **MongoDB**.  
@@ -36,6 +41,6 @@ cd <your-repo-folder>
 
 
 
-![Get All Employees API](./employee_api/screenshots/llumogetallapi.jpg)
-![Postman API Screenshot](./employee_api/screenshots/llumopostiapi.jpg)
+![Postman API Screenshots](./screenshots/llumopostiapi.jpg)
+![Get All Employees API ](./screenshots/llumogetallapi.jpg)
 ```
